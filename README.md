@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer <br>PHP/Laravel<br>Python Django<br>
+Software Developer<br>PHP/Laravel<br>Python/Django<br>Passionate about Automotives<br>
 
 
 ## 🌐 Socials:
